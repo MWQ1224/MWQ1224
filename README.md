@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MWQ1224
-- 👀 I’m interested in plants.
-- 🌱 I’m currently learning R and python.
+- 👀 I’m interested in Bioinformatics.
+- 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on genome and microbiome.
 - 📫 How to reach me mwq1224@163.com.
 
